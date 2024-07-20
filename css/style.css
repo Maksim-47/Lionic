@@ -397,15 +397,15 @@ body {
 }
 
 .contacts-item-address {
-    background-image: url('/img/Vector\ 4.svg');
+    background-image: url('../img/Vector\ 4.svg');
 }
 
 .contacts-item-call {
-    background-image: url('/img/Vector\ \(5\).svg');
+    background-image: url('../img/Vector\ \(5\).svg');
 }
 
 .contacts-item-emaill {
-    background-image: url('/img/Vector\ \(6\).svg');
+    background-image: url('../img/Vector\ \(6\).svg');
 }
 
 .contacts-item:not(:nth-child(3n)) {
