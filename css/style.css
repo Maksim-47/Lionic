@@ -401,11 +401,11 @@ body {
 }
 
 .contacts-item-call {
-    background-image: url("../img/Vector\ \(5\).svg");
+    background-image: url('../img/Vector\ \(5\).svg');
 }
 
 .contacts-item-emaill {
-    background-image: url("../img/Vector\ \(6\).svg");
+    background-image: url('../img/Vector\ \(6\).svg');
 }
 
 .contacts-item:not(:nth-child(3n)) {
@@ -498,7 +498,7 @@ body {
 }
 
 .social-link-likendin {
-    background-image: url("'../img/Vector\ \(8\).svg'");
+    background-image: url("../img/Vector\ \(8\).svg");
 }
 
 .social-link-mail {
