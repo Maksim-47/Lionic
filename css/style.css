@@ -111,6 +111,36 @@ body {
     font-weight: 600;
     color: #1c1c1c;
     font-size: 15px;
+    position: relative;
+}
+
+.header-link:focus {
+    outline: 1px solid #71A7E2;
+    outline-offset: 2px;
+}
+
+.header-link:hover {
+    color: #71A7E2;
+}
+
+.header-link::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -2px;
+    width: 100%;
+    height: 2px;
+    background-color: #3474BA;
+    opacity: 0;
+}
+
+.header-link:active {
+    color: #3172B9;
+    outline: none;
+}
+
+.header-link:active::after {
+    opacity: 1;
 }
 
 
