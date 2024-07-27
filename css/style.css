@@ -182,6 +182,7 @@ body {
     padding-top: 100px;
     padding-bottom: 150px;
     background-image: url('../img/first-bg.jpg');
+    background-repeat: no-repeat;
 
 }
 
