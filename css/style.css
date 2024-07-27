@@ -439,6 +439,92 @@ body {
     margin-bottom: 5px;
 }
 
+/*join-us*/
+
+.join-us-title {
+    text-align: center;
+}
+
+.join-us-descr {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.form {
+    padding-left: 55px;
+    padding-right: 55px;
+}
+
+.form-imput {
+    border: 1px solid #DADADA;
+    border-radius: 50px;
+    box-sizing: border-box;
+    padding: 16px 28px;
+    width: 250px;
+    height: 60px;
+}
+
+.form-select {
+    border: 1px solid #DADADA;
+    border-radius: 50px;
+    box-sizing: border-box;
+    padding: 16px 28px;
+    width: 250px;
+    height: 60px;
+}
+
+.form-textarea {
+    border: 1px solid #DADADA;
+    border-radius: 20px;
+    box-sizing: border-box;
+    width: 520px;
+    height: 139px;
+    padding: 15px 28px 95px;
+    resize: none;
+}
+
+.form-bottom {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.from-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-top {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 19px;
+}
+
+.form-left {
+    width: 48%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.from-right {
+    width: 48%;
+}
+
+.form-chec {
+    font-size: 12px;
+    line-height: 16px;
+    text-align: center;
+}
+
+.form-btn {
+    min-width: 230px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 50px;
+    margin-bottom: 9px;
+}
+
 /* footer */
 
 .footer {
