@@ -350,12 +350,20 @@ body {
     color: #1C1C1C;
 }
 
+.services-item:hover .services-item-title {
+    color: #fff;
+}
+
 .blog-preview-decr {
     margin: 0;
     font-size: 14px;
     line-height: 21px;
     color: #787878;
     max-width: 210%;
+}
+
+.services-item:hover .services-item-desc {
+    color: #fff;
 }
 
 /* Clients */
