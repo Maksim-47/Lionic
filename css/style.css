@@ -354,7 +354,7 @@ body {
     color: #fff;
 }
 
-.blog-preview-decr {
+.blog-preview-descr {
     margin: 0;
     font-size: 14px;
     line-height: 21px;
@@ -418,7 +418,7 @@ body {
     color: #fff;
 }
 
-.services-item:hover .services-item-desc {
+.services-item:hover .services-item-descr {
     color: #fff;
 }
 
