@@ -588,7 +588,7 @@ img {
 }
 
 .contacts-item-address {
-    background-image: url('../img/Vector\ 4.svg');
+    background-image: url('./img/Vector\ 4.svg');
 }
 
 .contacts-address {
@@ -596,7 +596,7 @@ img {
 }
 
 .contacts-item-call {
-    background-image: url('../img/Vector\ \(5\).svg');
+    background-image: url('./img/Vector\ \(5\).svg');
 }
 
 .cotacts-item-link {
