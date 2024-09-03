@@ -588,7 +588,7 @@ img {
 }
 
 .contacts-item-address {
-    background-image: url('/img/Vector\ 4.svg');
+    background-image: url('../img/Vector\ 4.svg');
 }
 
 .contacts-address {
@@ -596,7 +596,7 @@ img {
 }
 
 .contacts-item-call {
-    background-image: url('/img/Vector\ \(5\).svg');
+    background-image: url('../img/Vector\ \(5\).svg');
 }
 
 .cotacts-item-link {
@@ -606,7 +606,7 @@ img {
 }
 
 .contacts-item-emaill {
-    background-image: url('/img/Vector\ \(6\).svg');
+    background-image: url('../img/Vector\ \(6\).svg');
 }
 
 .contacts-item-text {
@@ -768,16 +768,16 @@ img {
 }
 
 .social-link-x {
-    background-image: url("/img/Vector\ \(7\).svg");
+    background-image: url("../img/Vector\ \(7\).svg");
 }
 
 
 .social-link-likendin {
-    background-image: url("/img/Vector\ \(8\).svg");
+    background-image: url("../img/Vector\ \(8\).svg");
 }
 
 .social-link-mail {
-    background-image: url("/img/Vector\ \(5\).svg");
+    background-image: url("../img/Vector\ \(5\).svg");
 }
 
 .btn-reset:focus {
